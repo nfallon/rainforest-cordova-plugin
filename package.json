@@ -1,0 +1,38 @@
+{
+  "name": "rainforest-cordova-plugin",
+  "version": "1.0.0",
+  "description": "Rainforest Cordova Plugin",
+  "cordova": {
+    "id": "rainforest-cordova-plugin",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nfallon/rainforest-cordova-plugin"
+  },
+  "keywords": [
+    "rainforest",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "engines": {
+      "name": "cordova",
+      "version": ">=4.0.0"
+  },
+  "author": "Mariana Franco",
+  "contributors": [
+    {
+      "name": "Nick Fallon",
+      "email": "nfallon@rocketlawyer.com",
+      "url": "https://www.rocketlawyer.com",
+      "username": "nfallon"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rainforestapp/rainforest-cordova-plugin"
+  },
+  "homepage": "https://github.com/rainforestapp/rainforest-cordova-plugin"
+}
